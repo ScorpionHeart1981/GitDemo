@@ -14,7 +14,7 @@ namespace Nop.Plugin.DiscountRules.BXGY
     {
         public int Order
         {
-            get { return 200; }
+            get { return 2000; }
         }
 
         public void Register(ContainerBuilder builder, ITypeFinder typeFinder, NopConfig config)
