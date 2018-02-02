@@ -63,6 +63,7 @@ namespace Nop.Plugin.DiscountRules.BXGY
         public void OnProvidersExecuted(FilterProviderContext context)
         {
             var a = context.ActionContext.ActionDescriptor;
+
         }
     }
 }
