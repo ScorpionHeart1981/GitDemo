@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Discount requirements",
+  "FriendlyName": "Buy X Get Y Free role",
+  "SystemName": "DiscountRequirement.BXGY",
+  "Version": "1.23",
+  "SupportedVersions": [ "4.00" ],
+  "Author": "Xin",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.DiscountRules.BXGY.dll",
+  "Description": "This plugin allows you to configure discounts for buy x get y free"
+}
